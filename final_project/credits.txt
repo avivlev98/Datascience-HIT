@@ -1,5 +1,0 @@
-https://stackoverflow.com/questions/74985825/scraping-aliexpress-search-page-does-not-return-all-products
-
-https://requests.readthedocs.io/projects/requests-html/en/latest/
-
-
